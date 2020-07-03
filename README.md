@@ -2,7 +2,7 @@
 
 unblock car game with python and pygame (unblock yellow car)
 
-Tested on python 3.7
+![demo](https://img.techpowerup.org/200703/cars.png)
 
 ## how to run
 
